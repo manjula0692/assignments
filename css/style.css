@@ -1,0 +1,22 @@
+#p2{
+    background-color: coral;
+}
+span{
+    color: red;
+}
+#p3{
+            border-width: 5px;
+            border-color: green;
+            border-style: solid;
+        }
+#p4{
+    border-width: 1rem;
+    border-color: green;
+    border-style: solid;
+        }
+#p5{
+    border-width: 1cm;
+    border-color: green;
+    border-style: solid; 
+       } 
+
